@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mr Potatohead</string>
+    <string name="arms">Arms</string>
+    <string name="ears">Ears</string>
+    <string name="body">Body</string>
+    <string name="eyebrows">Eyebrows</string>
+    <string name="eyes">Eyes</string>
+    <string name="glasses">Glasses</string>
+    <string name="hat">Hat</string>
+    <string name="mouth">Mouth</string>
+    <string name="mustache">Mustache</string>
+    <string name="nose">Nose</string>
+    <string name="shoes">Shoes</string>
+    <string name="clarif">Check in the boxes below to show the corresponding body part or accessory</string>
+</resources>
